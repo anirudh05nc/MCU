@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894623823230",
+    "project_id": "excel-2f298",
+    "storage_bucket": "excel-2f298.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894623823230:android:324c63d850d1f40a2a2f2f",
+        "android_client_info": {
+          "package_name": "com.example.excel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADELDOphmLCzSTHgF5PlfYGwD00mvzpXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894623823230:android:2cf40f83a8869bc02a2f2f",
+        "android_client_info": {
+          "package_name": "com.example.excel_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADELDOphmLCzSTHgF5PlfYGwD00mvzpXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
